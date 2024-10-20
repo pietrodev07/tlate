@@ -1,6 +1,6 @@
 # Tlate
 
-🚀 Welcome to **tlate**! This template is designed to help you quickly set up your new TypeScript library with all the essential configurations and dependencies in place, allowing you to focus on building and innovating.
+Welcome to **tlate**! This template is designed to help you quickly set up your new TypeScript library with all the essential configurations and dependencies in place, allowing you to focus on building and innovating.
 
 ## Features
 
