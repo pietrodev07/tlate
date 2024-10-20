@@ -26,13 +26,13 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 2. **Clone your forked repostiory**
 
    ```bash
-   git clone https://github.com/username/slate.git
+   git clone https://github.com/username/tlate.git
    ```
 
 3. **Navigate into the directory**
 
    ```bash
-   cd slate
+   cd tlate
    ```
 
 4. **Install dependencies:**
