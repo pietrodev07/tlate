@@ -22,7 +22,7 @@
     "@commitlint/cli": "^19.7.1",
     "@commitlint/config-conventional": "^19.7.1",
     "eslint": "^9.21.0",
-    "eslint-config-prettier": "^10.0.1",
+    "eslint-config-prettier": "^10.0.2",
     "husky": "^9.1.7",
     "prettier": "^3.5.3",
     "pretty-quick": "^4.0.0",
