@@ -27,7 +27,7 @@
     "prettier": "^3.5.3",
     "pretty-quick": "^4.1.1",
     "rimraf": "^6.0.1",
-    "tsc-alias": "^1.8.15",
+    "tsc-alias": "^1.8.16",
     "tsx": "^4.19.3",
     "typescript": "^5.8.3"
   },
