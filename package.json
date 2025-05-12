@@ -19,7 +19,7 @@
     "run:examples": "tsx examples/index.ts"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.8.0",
+    "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.0",
     "eslint": "^9.26.0",
     "eslint-config-prettier": "^10.1.2",
